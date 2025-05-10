@@ -1,0 +1,2 @@
+Vision Transformer - Jax
+Implementation of [Vision Transformer](https://openreview.net/pdf?id=YicbFdNTTy), a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Jax. Significance is further explained in [Yannic Kilcher's video](https://www.youtube.com/watch?v=TrdevFK_am4). There's really not much to code here, but may as well lay it out for everyone so we expedite the attention revolution.
